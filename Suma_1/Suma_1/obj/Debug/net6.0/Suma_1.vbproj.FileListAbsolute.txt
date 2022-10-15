@@ -1,0 +1,15 @@
+D:\asdvb\Suma_1\Suma_1\bin\Debug\net6.0\Suma_1.exe
+D:\asdvb\Suma_1\Suma_1\bin\Debug\net6.0\Suma_1.deps.json
+D:\asdvb\Suma_1\Suma_1\bin\Debug\net6.0\Suma_1.runtimeconfig.json
+D:\asdvb\Suma_1\Suma_1\bin\Debug\net6.0\Suma_1.dll
+D:\asdvb\Suma_1\Suma_1\bin\Debug\net6.0\Suma_1.pdb
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.vbproj.AssemblyReference.cache
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.AssemblyInfoInputs.cache
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.AssemblyInfo.vb
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.vbproj.CoreCompileInputs.cache
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.dll
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\refint\Suma_1.dll
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.pdb
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\Suma_1.genruntimeconfig.cache
+D:\asdvb\Suma_1\Suma_1\obj\Debug\net6.0\ref\Suma_1.dll
